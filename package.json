@@ -1,5 +1,5 @@
 {
-  "name": "news-scraper",
+  "name": "scrapper9000",
   "version": "1.0.0",
   "description": "All the News That's Fit to Scrape",
   "main": "server.js",
@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/imuktiar/news-scraper.git"
+    "url": "git+https://github.com/imuktiar/scrapper9000.git"
   },
   "author": "Mark Gardner",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/imuktiar/news-scraper/issues"
+    "url": "https://github.com/imuktiar/scrapper9000/issues"
   },
-  "homepage": "https://github.com/imuktiar/news-scraper#readme",
+  "homepage": "https://github.com/imuktiar/scrapper9000#readme",
   "dependencies": {
     "axios": "^0.18.0",
     "cheerio": "^1.0.0-rc.3",
